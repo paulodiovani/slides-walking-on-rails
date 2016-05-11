@@ -1,0 +1,25 @@
+{
+  "name": "slides-walking-on-rails",
+  "homepage": "http://slides.diovani.com/walking-on-rails",
+  "authors": [
+    "Paulo Diovani <paulo@diovani.com>"
+  ],
+  "description": "A talk about the Ruby on Rails ecossystem.",
+  "main": "index.html",
+  "keywords": [
+    "talk",
+    "slides",
+    "ruby",
+    "rails",
+    "reveal.js"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
