@@ -56,3 +56,8 @@ Estamos contratando
 # <i class="br br-ruby"></i> <i class="br br-rails"></i> develop
 # <i class="fa fa-github"></i> <i class="br br-travis-ci"></i> commit/test
 # <i class="br br-heroku"></i> <i class="br br-postgresql"></i> deploy
+
+----
+<!-- .slide: data-background="url(img/feanor.jpg)" data-background-size="contain" data-background-repeat="no-repeat" data-background-position="right" -->
+
+# Dúvidas? <!-- .element: class="pull-left" -->
