@@ -30,3 +30,23 @@ Usuário GNU/Linux
 [slides]: http://slides.diovani.com
 [code-logo]: img/codeminer42.png
 [code-site]: http://codeminer42.com/
+
+----
+
+![code-main-logo][code-main-logo] <!-- .element: class="no-border no-background" style="width:480px" -->
+
+Estamos contratando
+
+[become@codeminer42.com][become]
+
+[code-main-logo]: img/codeminer.svg
+[become]: mailto:become@codeminer42.com
+
+====
+
+- Processo ágil
+- Foco em qualidade
+- Times auto gerenciados
+- Consultoria + Desenvolvimento
+- Comunicação direta com o cliente
+
