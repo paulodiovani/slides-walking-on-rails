@@ -50,3 +50,9 @@ Estamos contratando
 - Consultoria + Desenvolvimento
 - Comunicação direta com o cliente
 
+====
+
+# <i class="fa fa-apple"></i> <i class="fa fa-linux"></i> prepare
+# <i class="br br-ruby"></i> <i class="br br-rails"></i> develop
+# <i class="fa fa-github"></i> <i class="br br-travis-ci"></i> commit/test
+# <i class="br br-heroku"></i> <i class="br br-postgresql"></i> deploy
