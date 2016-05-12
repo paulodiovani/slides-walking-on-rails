@@ -35,7 +35,7 @@ Usuário GNU/Linux
 
 ![code-main-logo][code-main-logo] <!-- .element: class="no-border no-background" style="width:480px" -->
 
-Estamos contratando
+estamos contratando
 
 [become@codeminer42.com][become]
 
@@ -61,3 +61,6 @@ Estamos contratando
 <!-- .slide: data-background="url(img/feanor.jpg)" data-background-size="contain" data-background-repeat="no-repeat" data-background-position="right" -->
 
 # Dúvidas? <!-- .element: class="pull-left" -->
+
+Note:
+Image credits: Fëanor, por Fabiana Amaral
