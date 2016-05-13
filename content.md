@@ -263,13 +263,69 @@ Dispensa/substitui Grunt, Gulp, etc.
 - Vagrant (https://www.vagrantup.com)
     + infra, ambientes de desenvolvimento
 
+----
+
+# <i class="fa fa-calendar"></i> Eventos
+
+Onde falar/ouvir sobre Ruby on Rails?
+
 ====
+<!-- .slide: data-background="linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url(img/gurusorocaba.jpg)" data-background-size="cover" -->
 
-## <i class="fa fa-calendar"></i> Eventos
+## <i class="br br-ruby"></i> GURU
 
-- <i class="br br-ruby"></i> RubyConf (http://rubyconf.com.br)
-- <i class="fa fa-heart"></i> Rails Girls (http://railsgirls.com)
-- **GURU** - Grupo de usuários Ruby
+Grupo de usuário Ruby
+
+<small>Foto: GURU Sorocaba</small>
+
+====
+<!-- .slide: data-background="linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url(img/railsgirlspoa.jpg)" data-background-size="cover" -->
+
+## <i class="br br-rails"></i> Rails Girls <i class="fa fa-heart"></i>
+
+http://railsgirls.com
+
+May 13 & 14, 2016<br>
+Hong Kong
+
+May 20 & 21, 2016<br>
+Novo Hamburgo
+
+...
+
+<small>Foto: Rails Girls POA 2015</small>
+
+====
+<!-- .slide: data-background="linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url(img/rubyconfbr.jpg)" data-background-size="cover" -->
+
+## <i class="br br-ruby"></i> RubyConf BR
+
+http://www.rubyconf.com.br
+
+September, 23th and 24th<br>
+São Paulo
+
+<small>Foto: RubyConf BR 2015</small>
+
+====
+<!-- .slide: data-background="url(img/rubyconf.svg)" data-background-size="cover" -->
+
+## <i class="br br-ruby"></i> RubyConf
+
+http://rubyconf.org
+
+November 10-12, 2016<br>
+Cincinnati
+
+====
+<!-- .slide: data-background="linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(img/railsconf.jpg)" data-background-size="cover" -->
+
+## <i class="br br-rails"></i> RailsConf
+
+http://railsconf.com
+
+~~MAY 4-6TH, 2016~~<br>
+~~Kansas City~~
 
 ----
 <!-- .slide: data-background="url(img/feanor.jpg)" data-background-size="contain" data-background-repeat="no-repeat" data-background-position="right" -->
