@@ -72,7 +72,7 @@ Vindo do PHP, Javascript, Java e C#...
 
 ====
 
-## <i class="br br-ruby"></i> Código "limpo" e legível
+## <i class="br br-ruby"></i> Código limpo e legível
 
 ```ruby
 # Output "I love Ruby"
@@ -94,7 +94,7 @@ se assemelha muito a linguagem natural
 
 ====
 
-## <i class="br br-ruby"></i> RubyGems
+## <i class="br br-ruby"></i> Repositório de Gems
 
 http://rubygems.org
 
@@ -103,7 +103,9 @@ http://rubygems.org
 
 ====
 
-## <i class="br br-ruby"></i> Bundler
+## <i class="br br-ruby"></i> Gerenciador de dependências
+
+http://bundler.io
 
 ```bash
 gem install bundler
@@ -145,7 +147,7 @@ end
 
 ----
 
-## <i class="br br-rails"></i> Convenções bem definidas
+## <i class="br br-rails"></i> Convenções antes de configuração
 
 Ruby on Rails segue a filosofia _Convention over configuration_
 
@@ -162,6 +164,16 @@ end
 
 ====
 
+## <i class="br br-rails"></i> Você não vai precisar disso
+
+*YAGNI* (_You aren't gonna need it_)
+
+- Princípio de _Extreme Programming_
+- Não adicionar até ser necessário
+- Faça o mais simples necessário para funcionar
+
+====
+
 ## <i class="br br-rails"></i> Setup rápido
 
 ```bash
@@ -169,6 +181,17 @@ gem install rails
 rails new blog
 cd blog
 bin/rails server
+```
+
+====
+
+## <i class="br br-rails"></i> Fácil subir aplicações
+
+```bash
+git clone https://github.com/paulodiovani/rails-example
+cd rails-example
+bundle install
+bundle exec rails server
 ```
 
 ====
