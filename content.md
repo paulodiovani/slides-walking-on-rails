@@ -239,6 +239,14 @@ Dispensa/substitui Grunt, Gulp, etc.
 
 - Sistemas altamente distribuídos / APIs
 - Aplicações Desktop
+- Servidor de IRC
+- Impressora
+- Smart TV
+- Robótica
+- Controlador de elevador
+- Exploração espacial
+- Na vida
+- Etc
 
 ====
 
