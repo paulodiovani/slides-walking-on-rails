@@ -228,5 +228,7 @@ Dispensa/substitui Grunt, Gulp, etc.
 
 # Dúvidas? <!-- .element: class="pull-left" -->
 
+&nbsp;
+
 Note:
 Image credits: Fëanor, por Fabiana Amaral
