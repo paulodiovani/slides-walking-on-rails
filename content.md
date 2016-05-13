@@ -213,6 +213,14 @@ Dispensa/substitui Grunt, Gulp, etc.
 - Vagrant (https://www.vagrantup.com)
     + infra, ambientes de desenvolvimento
 
+====
+
+## <i class="fa fa-calendar"></i> Eventos
+
+- <i class="br br-ruby"></i> RubyConf (http://rubyconf.com.br)
+- <i class="fa fa-heart"></i> Rails Girls (http://railsgirls.com)
+- **GURU** - Grupo de usuários Ruby
+
 ----
 <!-- .slide: data-background="url(img/feanor.jpg)" data-background-size="contain" data-background-repeat="no-repeat" data-background-position="right" -->
 
