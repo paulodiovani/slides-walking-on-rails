@@ -173,7 +173,7 @@ end
 
 - Princípio de _Extreme Programming_
 - Não adicionar até ser necessário
-- Faça o mais simples necessário para funcionar
+- Faça o mais simples possível para que funcione
 
 ====
 
@@ -223,16 +223,16 @@ Dispensa/substitui Grunt, Gulp, etc.
 
 ### <i class="br br-rails"></i> Sites incríveis usando Ruby on Rails
 
-- Airbnb (http://www.airbnb.com)
+- Airbnb (http://airbnb.com)
 - Ask.fm (http://ask.fm)
 - GitHub (http://github.com)
-- Goodreads (http://www.goodreads.com)
-- Groupon (http://www.groupon.com)
-- Hulu (http://www.hulu.com)
-- Indiegogo (http://www.indiegogo.com)
-- Kickstarter (http://www.kickstarter.com)
-- Shopify (http://www.shopify.com)
-- SlideShare (http://www.slideshare.net)
+- Goodreads (http://goodreads.com)
+- Groupon (http://groupon.com)
+- Hulu (http://hulu.com)
+- Indiegogo (http://indiegogo.com)
+- Kickstarter (http://kickstarter.com)
+- Shopify (http://shopify.com)
+- SlideShare (http://slideshare.net)
 - ThemeForest (http://themeforest.net)
 - Twitch (http://twitch.tv)
 
@@ -255,15 +255,15 @@ Dispensa/substitui Grunt, Gulp, etc.
 
 ## <i class="br br-ruby"></i> Outras coisas Ruby
 
-- Sinatra (http://www.sinatrarb.com)
+- Sinatra (http://sinatrarb.com)
     + para APIs
-- Jekyll (https://jekyllrb.com/)
+- Jekyll (https://jekyllrb.com)
     + sites estáticos, blogs, GitHub pages
-- Ruby Motion (http://www.rubymotion.com/)
-    + cross-plataform Mobile apps
-- Chef (https://www.chef.io/chef/)
+- Ruby Motion (http://rubymotion.com)
+    + apps mobile multi-plataforma
+- Chef (https://chef.io/chef)
     + DevOps
-- Vagrant (https://www.vagrantup.com)
+- Vagrant (https://vagrantup.com)
     + infra, ambientes de desenvolvimento
 
 ----
