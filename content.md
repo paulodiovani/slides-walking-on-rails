@@ -25,11 +25,14 @@ Usuário GNU/Linux
 
 [slides.diovani.com][slides]
 
+[@paulodiovani][twitter]
+
 [![codeminer42][code-logo]][code-site] <!-- .element: class="no-border no-background" -->
 
 [avatar]: img/avatar.jpg
 [blog]: http://blog.diovani.com
 [slides]: http://slides.diovani.com
+[twitter]: http://twitter.com/paulodiovani
 [code-logo]: img/codeminer42.png
 [code-site]: http://codeminer42.com/
 
@@ -293,7 +296,7 @@ Novo Hamburgo
 
 ...
 
-<small>Foto: Rails Girls POA 2015</small>
+<small>Foto: Rails Girls POA 2014</small>
 
 ====
 <!-- .slide: data-background="linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url(img/rubyconfbr.jpg)" data-background-size="cover" -->
@@ -330,7 +333,7 @@ http://railsconf.com
 ----
 <!-- .slide: data-background="url(img/feanor.jpg)" data-background-size="contain" data-background-repeat="no-repeat" data-background-position="right" -->
 
-# Dúvidas? <!-- .element: class="pull-left" -->
+# Perguntas? <!-- .element: class="pull-left" -->
 
 &nbsp;
 
