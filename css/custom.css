@@ -15,3 +15,17 @@ img.img-half-right {
   height: auto;
   margin-left: 20px;
 }
+
+/*
+fix code overflow
+and increase font size
+*/
+
+.reveal pre {
+  width: auto;
+  font-size: .75em;
+}
+
+.reveal pre code {
+  max-height: none;
+}
