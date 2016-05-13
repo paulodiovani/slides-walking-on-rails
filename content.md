@@ -218,6 +218,23 @@ Dispensa/substitui Grunt, Gulp, etc.
 
 ====
 
+### <i class="br br-rails"></i> Sites invríveis usando Ruby on Rails
+
+- Airbnb (http://www.airbnb.com)
+- Ask.fm (http://ask.fm)
+- GitHub (http://github.com)
+- Goodreads (http://www.goodreads.com)
+- Groupon (http://www.groupon.com)
+- Hulu (http://www.hulu.com)
+- Indiegogo (http://www.indiegogo.com)
+- Kickstarter (http://www.kickstarter.com)
+- Shopify (http://www.shopify.com)
+- SlideShare (http://www.slideshare.net)
+- ThemeForest (http://themeforest.net)
+- Twitch (http://twitch.tv)
+
+====
+
 ## <i class="fa fa-ban"></i> Onde não usar?
 
 - Sistemas altamente distribuídos / APIs
