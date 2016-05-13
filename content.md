@@ -46,6 +46,8 @@ estamos contratando
 
 ====
 
+## <i class="br br-codeminer"></i> Codeminer 42
+
 - Processo ágil
 - Foco em qualidade
 - Times auto gerenciados
