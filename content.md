@@ -12,14 +12,14 @@ Note:
 Image credits: lemerg.com
 
 ====
+<!-- .slide: class="half-slide" data-background="url(img/paulodiovani.jpg)" data-background-size="contain" data-background-repeat="no-repeat" data-background-position="right" -->
 
-![avatar][avatar] <!-- .element: class="img-half-right" -->
 
 ### <i class="fa fa-user"></i> Paulo Diovani Gonçalves
 
 Tecnólogo em Sistemas para Internet pela Universidade Feevale.
 Desenvolvedor na Codeminer 42.
-Usuário GNU/Linux
+Usuário GNU/Linux.
 
 [blog.diovani.com][blog]
 
