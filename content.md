@@ -331,11 +331,9 @@ http://railsconf.com
 ~~Kansas City~~
 
 ----
-<!-- .slide: data-background="url(img/feanor.jpg)" data-background-size="contain" data-background-repeat="no-repeat" data-background-position="right" -->
+<!-- .slide: class="half-slide" data-background="url(img/feanor.jpg)" data-background-size="contain" data-background-repeat="no-repeat" data-background-position="right" -->
 
-# Perguntas? <!-- .element: class="pull-left" -->
-
-&nbsp;
+# Perguntas?
 
 Note:
 Image credits: Fëanor, por Fabiana Amaral

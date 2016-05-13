@@ -1,3 +1,7 @@
+.reveal .half-slide> * {
+  width: 50%;
+}
+
 .reveal img.no-border,
 .reveal a.no-border img {
     border: 0 !important;
