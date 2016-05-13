@@ -60,6 +60,116 @@ estamos contratando
 # <i class="br br-heroku"></i> <i class="br br-postgresql"></i> deploy
 
 ----
+
+# <i class="br br-ruby"></i> <i class="br br-rails"></i>
+
+# Primeiras impressões
+
+Note:
+Vindo do PHP, Javascript, Java e C#...
+
+====
+
+## <i class="br br-ruby"></i> Código "limpo" e legível
+
+```ruby
+# Output "I love Ruby"
+say = "I love Ruby"
+puts say
+
+# Output "I *LOVE* RUBY"
+say['love'] = "*love*"
+puts say.upcase
+
+# Output "I *love* Ruby"
+# five times
+5.times { puts say }
+```
+
+Note:
+A maiorias dos métodos e construção de ruby
+se assemelha muito a linguagem natural
+
+====
+
+## <i class="br br-ruby"></i> RubyGems
+
+http://rubygems.org
+
+- Gerenciador de pacotes do Ruby
+- Formato padrão para distribuir programas e bibliotecas Ruby
+
+====
+
+## <i class="br br-ruby"></i> Bundler
+
+```bash
+gem install bundler
+vim Gemfile
+```
+
+```ruby
+source 'https://rubygems.org'
+gem 'nokogiri'
+gem 'rack', '~>1.1'
+gem 'rspec', :require => 'spec'
+```
+
+```bash
+bundle install
+```
+
+====
+
+## <i class="br br-ruby"></i> BDD com rspec
+
+http://rspec.info
+
+http://betterspecs.org
+
+```ruby
+describe Calculator do
+  let(:calc) { Calculator.new() }
+
+  describe '#sum' do
+    subject { calc.sum 2, 8 }
+
+    it 'sums two numbers' do
+      is_expected.to eq 10
+    end
+  end
+end
+```
+
+====
+
+## <i class="br br-rails"></i> Convenções bem definidas
+
+Ruby on Rails segue a filosofia _Convention over configuration_
+
+- Reduz o número de decisões do desenvolvedor
+- Fácil de obter ajuda da comunidade
+
+```ruby
+class Project < ApplicationRecord
+  belongs_to :account
+  has_many :participants, class_name: ‘Person’
+  validates_presence_of :name
+end
+```
+
+====
+
+## <i class="br br-rails"></i> Setup rápido
+
+```bash
+gem install rails
+rails new blog
+cd blog
+bin/rails server
+```
+
+----
 <!-- .slide: data-background="url(img/feanor.jpg)" data-background-size="contain" data-background-repeat="no-repeat" data-background-position="right" -->
 
 # Dúvidas? <!-- .element: class="pull-left" -->
