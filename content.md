@@ -15,7 +15,7 @@ Image credits: lemerg.com
 
 ![avatar][avatar] <!-- .element: class="img-half-right" -->
 
-### Paulo Diovani Gonçalves
+### <i class="fa fa-user"></i> Paulo Diovani Gonçalves
 
 Tecnólogo em Sistemas para Internet pela Universidade Feevale.
 Desenvolvedor na Codeminer 42.
@@ -54,10 +54,10 @@ estamos contratando
 
 ====
 
-# <i class="fa fa-apple"></i> <i class="fa fa-linux"></i> prepare
-# <i class="br br-ruby"></i> <i class="br br-rails"></i> develop
-# <i class="fa fa-github"></i> <i class="br br-travis-ci"></i> commit/test
-# <i class="br br-heroku"></i> <i class="br br-postgresql"></i> deploy
+## <i class="fa fa-apple"></i> <i class="fa fa-linux"></i> prepare
+## <i class="br br-ruby"></i> <i class="br br-rails"></i> develop
+## <i class="fa fa-github"></i> <i class="br br-travis-ci"></i> commit/test
+## <i class="br br-heroku"></i> <i class="br br-postgresql"></i> deploy
 
 ----
 
@@ -141,7 +141,7 @@ describe Calculator do
 end
 ```
 
-====
+----
 
 ## <i class="br br-rails"></i> Convenções bem definidas
 
