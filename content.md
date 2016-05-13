@@ -218,7 +218,7 @@ Dispensa/substitui Grunt, Gulp, etc.
 
 ====
 
-### <i class="br br-rails"></i> Sites invríveis usando Ruby on Rails
+### <i class="br br-rails"></i> Sites incríveis usando Ruby on Rails
 
 - Airbnb (http://www.airbnb.com)
 - Ask.fm (http://ask.fm)
