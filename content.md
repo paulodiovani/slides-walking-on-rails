@@ -169,6 +169,50 @@ cd blog
 bin/rails server
 ```
 
+====
+
+## <i class="br br-rails"></i> Asset Pipeline
+
+Dispensa/substitui Grunt, Gulp, etc.
+
+- CSS, SASS
+- Javascript, CoffeeScript
+- Compila, concatena, minifica
+
+----
+
+## <i class="fa fa-check"></i> O que Ruby on Rails resolve?
+
+- Aplicações web diversas
+    + e-commerce
+    + portais / redes sociais
+    + gerenciamento de conteúdo
+- Criação rápida
+    + "favorito das _startups_"
+- Deploy facilitado
+
+====
+
+## <i class="fa fa-ban"></i> Onde não usar?
+
+- Sistemas altamente distribuídos / APIs
+- Aplicações Desktop
+
+====
+
+## <i class="br br-ruby"></i> Outras coisas Ruby
+
+- Sinatra (http://www.sinatrarb.com)
+    + para APIs
+- Jekyll (https://jekyllrb.com/)
+    + sites estáticos, blogs, GitHub pages
+- Ruby Motion (http://www.rubymotion.com/)
+    + cross-plataform Mobile apps
+- Chef (https://www.chef.io/chef/)
+    + DevOps
+- Vagrant (https://www.vagrantup.com)
+    + infra, ambientes de desenvolvimento
+
 ----
 <!-- .slide: data-background="url(img/feanor.jpg)" data-background-size="contain" data-background-repeat="no-repeat" data-background-position="right" -->
 
