@@ -1,19 +1,22 @@
-img.no-border,
-a.no-border img {
+.reveal img.no-border,
+.reveal a.no-border img {
     border: 0 !important;
     box-shadow: none !important;
 }
 
-img.no-background,
-a.no-background img {
+.reveal img.no-background,
+.reveal a.no-background img {
   background: none !important;
 }
 
-img.img-half-right {
+.reveal img.img-half-right {
   float: right;
   width: 30%;
   height: auto;
-  margin-left: 20px;
+}
+
+.reveal ul ul {
+  font-size: .9em;
 }
 
 /*
