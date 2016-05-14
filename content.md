@@ -330,6 +330,17 @@ http://railsconf.com
 ~~MAY 4-6TH, 2016~~<br>
 ~~Kansas City~~
 
+====
+<!-- .slide: data-background="linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(img/novohamburgo.jpg)" data-background-size="cover" -->
+
+## <i class="fa fa-code"></i> Meetup Vale dos Desenvolvedores
+
+http://meetup.com/Vale-dos-Desenvolvedores
+
+Em breve
+
+<small>Foto: Novo Hamburgo, por paulodiovani</small>
+
 ----
 <!-- .slide: class="half-slide" data-background="url(img/feanor.jpg)" data-background-size="contain" data-background-repeat="no-repeat" data-background-position="right" -->
 
