@@ -4,7 +4,7 @@
 
 Uma apresentação sobre o _ecossistema_ de _**Ruby on Rails**_.
 
-<small>Versão 0.1.0</small>
+<small>Versão 0.1.1</small>
 
 <small>por Paulo Diovani</small>
 
