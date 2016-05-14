@@ -320,6 +320,9 @@ http://rubyconf.org
 November 10-12, 2016<br>
 Cincinnati
 
+Note:
+Cincinnati, Ohio, USA
+
 ====
 <!-- .slide: data-background="linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(img/railsconf.jpg)" data-background-size="cover" -->
 
@@ -330,6 +333,9 @@ http://railsconf.com
 ~~MAY 4-6TH, 2016~~<br>
 ~~Kansas City~~
 
+Note:
+Kansas City, Kansas, USA
+
 ====
 <!-- .slide: data-background="linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(img/novohamburgo.jpg)" data-background-size="cover" -->
 
@@ -337,7 +343,8 @@ http://railsconf.com
 
 http://meetup.com/Vale-dos-Desenvolvedores
 
-Em breve
+Em breve<br>
+Novo Hamburgo
 
 <small>Foto: Novo Hamburgo, por paulodiovani</small>
 
