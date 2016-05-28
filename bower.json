@@ -22,7 +22,7 @@
     "rails",
     "reveal.js"
   ],
-  "license": "MIT",
+  "license": "CC-BY-NC-SA",
   "private": true,
   "ignore": [
     "**/.*",
